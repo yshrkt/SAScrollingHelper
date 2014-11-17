@@ -5,6 +5,8 @@
 //  Created by Yoshihiro Kato on 2014/06/10.
 //  Copyright (c) 2014年 Yoshihiro Kato. All rights reserved.
 //
+//  Released under the MIT license
+//
 
 #import "SAScrollingHelper.h"
 

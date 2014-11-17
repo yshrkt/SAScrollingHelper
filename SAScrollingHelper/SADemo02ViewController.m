@@ -53,7 +53,6 @@
             
             [blockSelf updateNavigationBarItemsWithAlpha:1.0 - r];
             
-            NSLog(@"%@", NSStringFromCGRect(f));
             if(f.origin.y <= -naviBarHeight + statusBarHeight){
                 [blockSelf.navigationItem setHidesBackButton:YES animated:NO];
             }else {
